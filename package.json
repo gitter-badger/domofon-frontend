@@ -1,0 +1,19 @@
+{
+  "name": "domofon-frontend",
+  "version": "1.0.0",
+  "description": "Front-end application for domofon-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blstream/domofon-frontend.git"
+  },
+  "author": "CodeSpace",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blstream/domofon-frontend/issues"
+  },
+  "homepage": "https://github.com/blstream/domofon-frontend#readme"
+}
