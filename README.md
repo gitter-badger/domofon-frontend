@@ -1,3 +1,9 @@
+# Installing development dependencies
+
+```
+npm install
+```
+
 # Running development server
 
 ```
