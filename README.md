@@ -11,3 +11,11 @@ http://localhost:8080/
 ```
 npm run build
 ```
+
+# Deploy to github.io
+
+After you build and commit you can deploy `/dist` to
+http://blstream.github.io/domofon-frontend
+```
+npm run deploy
+```
