@@ -51,7 +51,7 @@
 /* 1 */
 /***/ function(module, exports) {
 
-	document.write('Hello world!!!');
+	document.write('CodeSpace draft');
 
 
 /***/ }
