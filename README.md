@@ -20,8 +20,4 @@ npm run build
 
 # Deploying to github.io
 
-After you build and commit you can deploy `/dist` to
-http://blstream.github.io/domofon-frontend
-```
-npm run deploy
-```
+After you commit TravisCI builds an app and deploys it to http://blstream.github.io/domofon-frontend/react
