@@ -1,4 +1,6 @@
 import React from 'react';
+import TextField from 'material-ui/lib/text-field';
+import RaisedButton from 'material-ui/lib/raised-button';
 
 
 const NameInput = React.createClass({
@@ -15,10 +17,8 @@ const NameInput = React.createClass({
   render: function () {
     return (
       <form onSubmit={this.nameSubmitted}>
-        <input type="text"
-               value={this.state.name}
-               onChange={this.nameChanged}/>
-        <input type="submit" value="Submit"/>
+        <TextField value={this.state.name} onChange={this.nameChanged}/>
+	<RaisedButton primary={true} label="Submit" type="submit"/>
       </form>
     );
   }
