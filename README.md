@@ -1,5 +1,7 @@
 # Installing development dependencies
 
+[![Join the chat at https://gitter.im/blstream/domofon-frontend](https://badges.gitter.im/blstream/domofon-frontend.svg)](https://gitter.im/blstream/domofon-frontend?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ```
 npm install
 ```
